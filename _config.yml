@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+# auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -12,11 +12,11 @@ pygments: true
 title : Awesome Inc U
 tagline: Learn To Code
 author :
-  name : The Awesome Inc Team
+  # name : The Awesome Inc Team
   email : founders@awesomeinc.org
   github : ainc
   twitter : awesome_inc
-  #feedburner : feedname
+  # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
