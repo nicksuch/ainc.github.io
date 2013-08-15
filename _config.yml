@@ -12,7 +12,7 @@ pygments: true
 title : Awesome Inc U
 tagline: Learn To Code
 author :
-  # name : The Awesome Inc Team
+  name : The Awesome Inc Team
   email : founders@awesomeinc.org
   github : ainc
   twitter : awesome_inc
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://ainc.github.io
+production_url : http://blog.awesomeincu.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,7 +81,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : facebook
     disqus :
       short_name : jekyllbootstrap
     livefyre :

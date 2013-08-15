@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Why We Started A Code School
+tagline: The latest startup community initiative from Awesome Inc
 ---
 {% include JB/setup %}
 
