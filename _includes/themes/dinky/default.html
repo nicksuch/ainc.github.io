@@ -22,11 +22,7 @@
       <header>
         <h1 class="header"><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
         <p class="header">{{ site.tagline }}</p>
-        <ul>
-          {% assign pages_list = site.pages %}
-          {% assign group = 'navigation' %}
-          {% include JB/pages_list %}
-        </ul>
+        
         {% if site.ads.google %}
         <div class="misc ad">
           <script type="text/javascript"><!--
@@ -74,7 +70,11 @@
       </section>
 
       <footer>
-      <!-- <p><small>Hosted on <a href="http://pages.github.com/">GitHub Pages</a> using the <a href="https://github.com/sodabrew/theme-dinky">Dinky theme</a> for <a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a></small></p> -->
+        <p><small><ul>
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include JB/pages_list %}
+        </ul></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
