@@ -7,8 +7,7 @@ tags: [learntocode, launch, jobs, software developer]
 ---
 {% include JB/setup %}
 
-
-{{ oembed http://www.youtube.com/watch?v=g_ytoNfe83Y }}
+<iframe width="400" height="225" src="//www.youtube.com/embed/g_ytoNfe83Y?rel=0" frameborder="0"> </iframe>
 
 Since we started [Awesome Inc](http://awesomeinc.org) four years ago, three words have adorned the front glass of our office: technology, creativity, startups. These three word have a very intentional interplay: Technology is the ability to turn your ideas into reality, Creativity is the ability to notice hidden opportunities, and Startups are the most efficient vehicle for combining Technology and Creativity to get something in the hands of the people who want it. We've spent quite a bit of time focused on the third frame with our [startup accelerator program](http://accelerator.awesomeinc.org), hosting [Startup Weekends](http://startupweekend.org) and [5 Across](http://5across.org) pitch contests, and the creation of the [Cherub Fund](http://cherubfund.com). Yet we recently began to notice that we overlooked the first prerequisite. As we met more startup founders, we found that while they had great ideas and unique perspectives, and they had made the necessary sacrifices to form a team and start a company, they were often lacking in the technical ability to build what they had envisioned. As we talked with entrepreneurs from around the country, as well as the leaders of mature-stage technology companies, we found that this dearth of technical ability is not an isolated problem. In the city of Louisville alone, over [??? tech job openings](http://codelouisville.org) are unfilled. As demand continues to grow, it's possible
 
