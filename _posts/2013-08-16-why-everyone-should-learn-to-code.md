@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Top 5 Reasons Why Everyone Should Learn To Code"
+title: "5 Reasons Why Everyone Should Learn To Code"
 description: "Thoughts on the changing nature of software development and why we think everyone should learn to code."
 category: 
 tags: [learntocode, launch, jobs, software developer]
