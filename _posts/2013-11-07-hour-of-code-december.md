@@ -7,7 +7,7 @@ tags: [learntocode, code.org, csedweek, k-12, hourofcode, programming, computer 
 ---
 {% include JB/setup %}
 
-<img src="images/hour-of-code-promo.jpg" alt="Kids learning to code with CSEdWeek logo">
+<img src="../images/hour-of-code-promo.jpg" alt="Kids learning to code with CSEdWeek logo">
 
 Like many things, the hardest part of learning to code is simply getting started. Fortunately, the world has gone ahead and made this part MUCH easier for you, than it was for, say, [Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper). There are a plethora of [free resources](http://www.codecademy.com/) available on the web, many employing onboarding methods that will have you churning out lines of code before you even realize your new-found love of the semicolon key. And if these resources weren’t enough for you to start dabbling in software, our friends at Code.org have dedicated a week in December to give you a swift kick in the pants to jumpstart your practice of programming: the [Hour of Code](http://code.org/hourofcode).
 
