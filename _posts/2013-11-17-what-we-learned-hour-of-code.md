@@ -30,7 +30,7 @@ The 8 awesome schools we worked with last week:
 
 [Tates Creek High School](http://www.tchs.fcps.net/)
 
-[STEAM Academy](http://www.fcps.net/schools/others/steam-academy)
+[STEAM Academy](http://www.steam.fcps.net/)
 
 [Eastside Technical Center](http://www.techcenters.fcps.net/eastside/)
 
@@ -42,6 +42,6 @@ The 8 awesome schools we worked with last week:
 
 [Sts. Peter and Paul](http://sppslex.org/)
 
-[The Learning Center at Lindley](http://www.fcps.net/schools/others/the-learning-center)
+[The Learning Center at Linlee](http://www.tlc.fcps.net/)
 
 Following the success of the Hour of Code last week, we’re not sure we can wait for [Grace Hopper](http://www.engadget.com/2013/12/09/google-doodle-grace-hopper/) to have another birthday. If you’d like to bring the Awesome Inc U team to your K-12 school (or office/church/university, etc), [let us know](http://www.awesomeincu.com/info/).
