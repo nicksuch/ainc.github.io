@@ -72,9 +72,11 @@
 
       <footer>
         <p><small><ul>
+          {% comment %}
           {% assign pages_list = site.pages %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
+          {% endcomment %}
         </ul></small></p>
       </footer>
     </div>
