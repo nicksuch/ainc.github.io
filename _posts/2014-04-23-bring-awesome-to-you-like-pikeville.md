@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "University of Pikeville Brings In Awesome Inc For On-Site Course"
+title: "University of Pikeville Brings In Awesome Inc For 1-Day iPhone Course"
 description: "Organizations can now bring Awesome Inc U to their teams with on-site course offerings."
 category: 
 tags: [learntocode, on-site, pikeville, university, iphone, upike]
