@@ -7,6 +7,8 @@ tags: [learntocode, education, software developer, mooc]
 ---
 {% include JB/setup %}
 
+By [Nick Such](https://plus.google.com/+NickSuch/)
+
 A few months ago, my team at Awesome Inc launched [a code school](http://awesomeincu.com/). After a few years of running a startup accelerator program, we realized that there was a glaring weakness in our entrepreneurial ecosystem that was holding back our local startups: a lack of technical co-founders. Like many startup communities, we have plenty of "idea" guys and gals, plus quite a few biz-dev hustlers, marketing geniuses, and even domain experts. But as we saw pitch after pitch from passionate people with interesting startup ideas, a mobile app for this, a website for that, we noticed that few startups had someone on their team who could actually build the piece of software they proposed! We wondered why, with exploding job demand and startup opportunities, we weren't seeing more technical co-founders.
 
 ## Maybe It's Just Us

@@ -12,6 +12,8 @@ tags: [learntocode, hourofcode, programming, students, k-12, csedweek]
 <a href="http://www.flickr.com/photos/awesomeinc/sets/72157638532676604/"><img src="/images/hour-of-code-team-students.jpg" alt="The Awesome Inc team working with students at Eastside Technical Center." title="The Awesome Inc team working with students at Eastside Technical Center. More photos available on flickr."></a>
 _The Awesome Inc team working with students at Eastside Technical Center. [More photos available on flickr](http://www.flickr.com/photos/awesomeinc/sets/72157638532676604/)._
 
+By [Nick Such](https://plus.google.com/+NickSuch/)
+
 Last week, over 15 million people around the world celebrated Computer Science Education Week by dedicating an hour to learn to code. Our team at [Awesome Inc](http://www.awesomeinc.org/) helped facilitate 10 [Hour of Code](http://www.awesomeincu.com/hourofcode) sessions at 8 schools around Fayette County, working with over 950 students from grades 4 - 12. During this process, we made a few observations:
 
 * Learning to code is fun. Sure, anything that gets a kid out of his or her normal routine is exciting, but we were surprised at how much fun students were having. As an experienced software developer will tell you, the joy of overcoming a programming challenge is worth any frustrations you encounter along the way.
