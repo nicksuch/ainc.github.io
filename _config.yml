@@ -20,6 +20,7 @@ author :
   facebook : awesomeincorporated
   flickr: awesomeinc
   # feedburner : feedname
+description: Insights from our students and instructors on programming and the Learn To Code movement # for RSS feed
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
