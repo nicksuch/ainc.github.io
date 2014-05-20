@@ -9,7 +9,7 @@ tags: [learntocode, learning, teaching, philosophy]
 
 by [Nick Such](https://plus.google.com/+NickSuch?rel=author)
 
-At [Awesome Inc U](http://www.awesomeincu.com), our goal is not only to create excellent programmers, but also to create a better way of learning. We think the ability to create stuff and solve problems using computer software is a skill with a significant term of usefulness, but some other skill *du jour* will eventually replace it. This is why the latter achievement, creating a great way to learn anything, is the more important of our two goals. In addition to the Core Values we live by at Awesome Inc, we have identified some basic tenets that we’re applying to our Awesome Inc U program.
+At [Awesome Inc U](http://www.awesomeincu.com), our goal is not only to create excellent programmers, but also to create a better way of learning. We think the ability to create stuff and solve problems using computer software is a skill with a significant term of usefulness, but some other skill *du jour* will eventually replace it. This is why the latter achievement, creating a great way to learn anything, is the more important of our two goals. In addition to the [Core Values](http://blog.awesomeinc.org/post/65083231094/core-value-training) we live by at Awesome Inc, we have identified some basic tenets that we’re applying to our Awesome Inc U program.
 
 ## Our Strategy: How to Create Excellent Programmers
 
